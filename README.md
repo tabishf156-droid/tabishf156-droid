@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building scalable web applications and contributing to open-source.<br><br>🤝 I’m open to collaborating on impactful frontend projects or backend with php and mysql databases.<br><br>🆘 Exploring deeper concepts in system design and performance optimization.<br><br>🌱 Currently mastering React, backend APIs, and clean architecture principles, building clean investment website as client project.<br><br>💬 Ask me about Git workflows, project management, and modern web stacks.<br><br>⚡ Fun fact: I love optimizing workflows and making systems more efficient.
+🔭 I’m currently building scalable web applications and contributing to open-source.<br><br>🤝 I’m open to collaborating on impactful frontend projects or backend with php, Laravel(full stack framework) and mysql databases.<br><br>🆘 Exploring deeper concepts in system design and performance optimization.<br><br>🌱 Currently mastering React, backend APIs, and clean architecture principles, building clean investment website as client project.<br><br>💬 Ask me about Git workflows, project management, and modern web stacks.<br><br>⚡ Fun fact: I love optimizing workflows and making systems more efficient.
 
 
 ## 🌐 Socials:
